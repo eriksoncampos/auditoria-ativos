@@ -1,0 +1,11 @@
+padrao_interno:
+  - modelo
+  - serial
+  - unidade
+  - patrimonio
+
+sinonimos:
+  modelo: ["modelo", "model", "equipamento", "descricao_modelo", "tipo_ativo"]
+  serial: ["serial", "n/s", "numero_serie", "serial_number", "serie", "sn"]
+  unidade: ["unidade", "unidade_instalacao", "local", "filial", "site", "setor"]
+  patrimonio: ["patrimonio", "ativo", "plaqueta", "tag", "asset_tag"]
